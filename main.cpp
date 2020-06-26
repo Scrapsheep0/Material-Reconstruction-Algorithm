@@ -26,7 +26,7 @@ int main() {
 	cout << "Initialize_Noise()" << endl;
 	sample.Initialize_Noise();
 	cout << sample;
-
+#this is a test
 //      Exit main()
     return 0;
 
